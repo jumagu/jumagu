@@ -38,7 +38,7 @@
 
 - ### [Journal App](https://journal-app-jmgg.netlify.app)
 
-- ### [Calendar App](https://calendar-app-jmgg.up.railway.app)
+- ### [Calendar App](https://calendar-app-jmgg.netlify.app)
 
 - ### [Map App](https://map-app-jmgg.netlify.app)
 
