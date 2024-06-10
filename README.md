@@ -40,6 +40,6 @@
 
 - ### [Calendar App](https://calendar-app-jmgg.netlify.app)
 
-- ### [Map App](https://map-app-jmgg.netlify.app)
+- ### [Map App](https://maps-app-jmgg.netlify.app)
 
 - ### [Auth App](https://auth-app-jmgg.netlify.app)
