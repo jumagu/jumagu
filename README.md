@@ -31,15 +31,3 @@
 ![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/-Prisma-000?style=flat-square&logo=prisma&logoColor=white)
-
-## 🛠️ Some of my projects
-
-- ### [Teslo Shop](https://teslo-shop-jmgg.vercel.app)
-
-- ### [Journal App](https://journal-app-jmgg.netlify.app)
-
-- ### [Calendar App](https://calendar-app-jmgg.netlify.app)
-
-- ### [Map App](https://maps-app-jmgg.netlify.app)
-
-- ### [Auth App](https://auth-app-jmgg.netlify.app)
