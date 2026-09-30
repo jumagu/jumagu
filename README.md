@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Go
 - 🧩 I’m looking to collaborate on Software/Creative projects
-- 🤔 I’m interested in Cloud Native & Kubernetes
+- 🤔 I’m interested in Cloud Native and Kubernetes
